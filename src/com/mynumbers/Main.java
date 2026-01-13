@@ -1,5 +1,5 @@
 /**
- *  Java program to use non-static methods of java.lang.Math.
+ *  Java program to use static methods of java.lang.Math.
  */
 
 package com.mynumbers;
